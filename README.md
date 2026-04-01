@@ -1,8 +1,8 @@
 # gradient-aware-cattle-identification
 Gradient-Aware Multi-Scale Feature Learning for Muzzle-Based Cattle Identification using EfficientNetV2-S with SE and Gradient Blocks
 
-**Our proposed Muzzle-Based Cattle Identification framework:
-**
+# Our proposed Muzzle-Based Cattle Identification framework:
+
 <img width="1222" height="685" alt="image" src="https://github.com/user-attachments/assets/5043234a-f294-4eb1-a92d-37af890323ce" />
 
 ## Method Overview
